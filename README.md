@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Rimsha Kanwal 👋
-### QA Engineer testing AI-powered SaaS, E-commerce, FinTech & Healthcare apps | Manual, Regression & API Testing | Postman · Swagger · BrowserStack
+### QA Engineer testing AI-powered SaaS, E-commerce, FinTech & Healthcare apps | Manual, Regression , UAT , Sanity, Smoke, Security & API Testing | Postman · Swagger · BrowserStack . JIRA . TRELLO. CLICKUP . ZAP OWSAP 
 
 [LinkedIn](https://www.linkedin.com/in/rimsha-kanwal-sqa) &nbsp;·&nbsp; [rimshakanwal495@gmail.com](mailto:rimshakanwal495@gmail.com) &nbsp;·&nbsp; Islamabad, Pakistan
 
@@ -64,8 +64,6 @@
 ## 💼 Key Projects
 
 **[Bloomlytix](https://bloomlytix.com/) — AI-Powered Ecommerce & Operations Ecosystem**
-
-<img src="./assets/bloomlytix-dashboard.png" alt="Bloomlytix Analytics Dashboard" width="100%" />
 
 Tested 12+ modules (AI features, payments, inventory, POS, delivery) across web, Android, iOS, and staff apps for gifting businesses. Validated AI SEO, image-based product upload, AI-generated descriptions, blogging, and multilingual translation. Tested payment gateways — Telr, Stripe, Tabby, Apple Pay — via Postman/Swagger, including payment links and transaction accuracy. Covered order fulfillment, multi-branch inventory, delivery tracking, driver app, and role-based access (5 roles). **Impact:** 40% regression improvement and identification of critical integration issues, enabling faster releases.
 
