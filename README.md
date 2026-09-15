@@ -1,9 +1,7 @@
 <div align="center">
 
 # Hi, I'm Rimsha Kanwal 👋
-### Software Quality Assurance Engineer
-
-*Testing SaaS, AI-Powered E-commerce, FinTech & Healthcare apps across Web, Android & iOS*
+### QA Engineer testing AI-powered SaaS, E-commerce, FinTech & Healthcare apps | Manual, Regression & API Testing | Postman · Swagger · BrowserStack
 
 [LinkedIn](https://www.linkedin.com/in/rimsha-kanwal-sqa) &nbsp;·&nbsp; [rimshakanwal495@gmail.com](mailto:rimshakanwal495@gmail.com) &nbsp;·&nbsp; Islamabad, Pakistan
 
@@ -56,7 +54,7 @@
 - Collaborated with cross-functional teams to uphold quality standards in a fast-paced delivery environment
 
 ### Front-End Development Intern
-**Fauji Foundation Head Office** — Rawalpindi · *Jul 2024 – Sep 2024*
+**[Fauji Foundation Head Office](https://fauji.org.pk/)** — Rawalpindi · *Jul 2024 – Sep 2024*
 - Developed dynamic, responsive websites using React.js, applying CRUD operations and JavaScript libraries
 - Built a Quiz App, a Paint App, and other interactive web pages
 - Supported release readiness through retesting and validation, helping reduce production issues
@@ -66,12 +64,17 @@
 ## 💼 Key Projects
 
 **[Bloomlytix](https://bloomlytix.com/) — AI-Powered Ecommerce & Operations Ecosystem**
+
+<img src="./assets/bloomlytix-dashboard.png" alt="Bloomlytix Analytics Dashboard" width="100%" />
+
 Tested 12+ modules (AI features, payments, inventory, POS, delivery) across web, Android, iOS, and staff apps for gifting businesses. Validated AI SEO, image-based product upload, AI-generated descriptions, blogging, and multilingual translation. Tested payment gateways — Telr, Stripe, Tabby, Apple Pay — via Postman/Swagger, including payment links and transaction accuracy. Covered order fulfillment, multi-branch inventory, delivery tracking, driver app, and role-based access (5 roles). **Impact:** 40% regression improvement and identification of critical integration issues, enabling faster releases.
 
-**[AromaFlowers](https://aromaflowers.ae/) — E-commerce Web & Mobile** ([Android App](https://play.google.com/store/apps/details?id=com.aroma.flowers))
+**[AromaFlowers](https://aromaflowers.ae/) — E-commerce Web & Mobile**
+([Android](https://play.google.com/store/apps/details?id=com.aroma.flowers) · [iOS](https://apps.apple.com/us/app/aroma-flowers-uae/id6443508105))
 Tested complete checkout and payment workflows (Stripe & PayPal) across web and mobile. Identified critical defects in the transaction flow, contributing to a **30% reduction in post-release defects**.
 
-**Cashlytix — FinTech App (Flutter)** ([Android App](https://play.google.com/store/apps/details?id=com.cashlytix))
+**Cashlytix — FinTech App (Flutter)**
+([Android](https://play.google.com/store/apps/details?id=com.cashlytix) · [iOS](https://apps.apple.com/us/app/cashlytix-staff-cash-tracker/id6761251052))
 Tested financial transaction workflows for accuracy and reliability; performed API validation using Swagger to improve backend data integrity; supported UAT.
 
 **[MedAssist](https://emr.medassistusa.com/home/) & 3CS — Healthcare Platforms**
