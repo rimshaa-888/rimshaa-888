@@ -112,6 +112,9 @@ Cashlytix is a Flutter-based **FinTech application** focused on staff cash track
 Tools & Testing: Swagger · API Testing · Functional Testing · Regression Testing · Data Validation · UAT · Flutter
 
 **[MedAssist](https://emr.medassistusa.com/home/) & 3CS — Healthcare Platforms**
+
+<div align="center"> <img src="https://github.com/rimshaa-888/rimshaa-888/blob/main/FireShot%20Capture%20009%20-%20MedAssist%20-%20MedAssist%20-%20%5Bmedassist.devforhealth.com%5D.png?raw=true" width="850" alt="MedAssist & 3CS" /> </div>
+
 MedAssist and 3CS are healthcare platforms supporting patient, appointment, and clinical workflows where accuracy and reliable information handling are critical.
 
 - Reviewed patient record workflows to ensure information was handled accurately throughout **key user journeys**.
