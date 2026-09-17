@@ -64,7 +64,7 @@
 ## 💼 Key Projects
 
 **[Bloomlytix](https://bloomlytix.com/) — AI-Powered Ecommerce & Operations Ecosystem**
-<img src"/https://github.com/rimshaa-888/rimshaa-888/blob/main/Macbook-Air-bloomlytix.com.png?raw=true"/>
+<img src="https://github.com/rimshaa-888/rimshaa-888/blob/main/Macbook-Air-bloomlytix.com.png?raw=true" alt="Bloomlytix Screenshot" width="800">
 
 Tested 12+ modules (AI features, payments, inventory, POS, delivery) across web, Android, iOS, and staff apps for gifting businesses. Validated AI SEO, image-based product upload, AI-generated descriptions, blogging, and multilingual translation. Tested payment gateways — Telr, Stripe, Tabby, Apple Pay — via Postman/Swagger, including payment links and transaction accuracy. Covered order fulfillment, multi-branch inventory, delivery tracking, driver app, and role-based access (5 roles). **Impact:** 40% regression improvement and identification of critical integration issues, enabling faster releases.
 
