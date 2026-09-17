@@ -69,6 +69,8 @@
 Tested 12+ modules (AI features, payments, inventory, POS, delivery) across web, Android, iOS, and staff apps for gifting businesses. Validated AI SEO, image-based product upload, AI-generated descriptions, blogging, and multilingual translation. Tested payment gateways — Telr, Stripe, Tabby, Apple Pay — via Postman/Swagger, including payment links and transaction accuracy. Covered order fulfillment, multi-branch inventory, delivery tracking, driver app, and role-based access (5 roles). **Impact:** 40% regression improvement and identification of critical integration issues, enabling faster releases.
 
 **[AromaFlowers](https://aromaflowers.ae/) — E-commerce Web & Mobile**
+<img src="https://github.com/rimshaa-888/rimshaa-888/blob/main/Macbook-Air-aromaflowers.ae.png?raw=true" alt="Aroma Flowers Website" width="800"
+<img src="https://github.com/rimshaa-888/rimshaa-888/blob/main/Aromaflowers_Admin_Dashboard.png?raw=true" alt="Aroma Flowers Admin Dashboard" width="800">
 ([Android](https://play.google.com/store/apps/details?id=com.aroma.flowers) · [iOS](https://apps.apple.com/us/app/aroma-flowers-uae/id6443508105))
 Tested complete checkout and payment workflows (Stripe & PayPal) across web and mobile. Identified critical defects in the transaction flow, contributing to a **30% reduction in post-release defects**.
 
