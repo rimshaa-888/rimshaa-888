@@ -64,20 +64,20 @@
 ## 💼 Key Projects
 
 **[Bloomlytix](https://bloomlytix.com/) — AI-Powered Ecommerce & Operations Ecosystem**
-/n
-<img src="https://github.com/rimshaa-888/rimshaa-888/blob/main/Business%20growth%20made%20beautiful.%20%E2%9C%A8Whether%20you%20run%20a%20flower%20shop,%20bakery,%20caf%C3%A9,%20or%20boutique%20brand,.jpg.jpeg?raw=true" width="430" height="240" style="border-radius: 15px; object-fit: cover;" alt="Business Growth" />
 
 Tested 12+ modules (AI features, payments, inventory, POS, delivery) across web, Android, iOS, and staff apps for gifting businesses. Validated AI SEO, image-based product upload, AI-generated descriptions, blogging, and multilingual translation. Tested payment gateways — Telr, Stripe, Tabby, Apple Pay — via Postman/Swagger, including payment links and transaction accuracy. Covered order fulfillment, multi-branch inventory, delivery tracking, driver app, and role-based access (5 roles). **Impact:** 40% regression improvement and identification of critical integration issues, enabling faster releases.
 
 **[AromaFlowers](https://aromaflowers.ae/) — E-commerce Web & Mobile**
 ([Android](https://play.google.com/store/apps/details?id=com.aroma.flowers) · [iOS](https://apps.apple.com/us/app/aroma-flowers-uae/id6443508105))
-/n <img src="https://github.com/rimshaa-888/rimshaa-888/blob/main/aromaflowers.png?raw=true" width="430" height="240" style="border-radius: 15px; object-fit: cover;" alt="Aroma Flowers" />
-/n Tested complete checkout and payment workflows (Stripe & PayPal) across web and mobile. Identified critical defects in the transaction flow, contributing to a **30% reduction in post-release defects**.
+
+Tested complete checkout and payment workflows (Stripe & PayPal) across web and mobile. Identified critical defects in the transaction flow, contributing to a **30% reduction in post-release defects**.
 
 **Cashlytix — FinTech App (Flutter)**
 ([Android](https://play.google.com/store/apps/details?id=com.cashlytix) · [iOS](https://apps.apple.com/us/app/cashlytix-staff-cash-tracker/id6761251052))
-/n <img src="https://github.com/rimshaa-888/rimshaa-888/blob/main/cashlytix.png?raw=true" width="430" height="240" style="border-radius: 15px; object-fit: cover;" alt="Cashlytix" />
-/n Tested financial transaction workflows for accuracy and reliability; performed API validation using Swagger to improve backend data integrity; supported UAT.
+
+<img src="https://github.com/rimshaa-888/rimshaa-888/blob/main/cashlytix.png?raw=true" width="700" style="border-radius:15px;" alt="Cashlytix">
+
+Tested financial transaction workflows for accuracy and reliability; performed API validation using Swagger to improve backend data integrity; supported UAT.
 
 **[MedAssist](https://emr.medassistusa.com/home/) & 3CS — Healthcare Platforms**
 Validated patient records, appointments, and clinical workflows for accuracy and compliance; tracked defects to support stable releases.
