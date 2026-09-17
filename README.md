@@ -68,14 +68,31 @@
 <div align="center"> <img src="https://github.com/rimshaa-888/rimshaa-888/blob/main/Business%20growth%20made%20beautiful.%20%E2%9C%A8Whether%20you%20run%20a%20flower%20shop,%20bakery,%20caf%C3%A9,%20or%20boutique%20brand,.jpg.jpeg?raw=true" width="850" alt="Business Growth" /> </div>
 
 
-Tested 12+ modules (AI features, payments, inventory, POS, delivery) across web, Android, iOS, and staff apps for gifting businesses. Validated AI SEO, image-based product upload, AI-generated descriptions, blogging, and multilingual translation. Tested payment gateways — Telr, Stripe, Tabby, Apple Pay — via Postman/Swagger, including payment links and transaction accuracy. Covered order fulfillment, multi-branch inventory, delivery tracking, driver app, and role-based access (5 roles). **Impact:** 40% regression improvement and identification of critical integration issues, enabling faster releases.
+**Bloomlytix** is a multi-platform gifting and e-commerce solution spanning web, Android, iOS, and staff applications. The platform includes AI-powered features, payment integrations, inventory and POS management, delivery operations, and role-based access.
+
+**Covered 12+ modules** across web, Android, iOS, and staff applications.
+**Examined** AI-powered functionality including **AI SEO**, image-based product uploads, AI-generated descriptions, blogging, and multilingual translation.
+**Performed** API and payment verification using Postman and Swagger across Telr, Stripe, Tabby, and Apple Pay, including payment links and transaction accuracy.
+Reviewed **end-to-end workflows** covering order fulfillment, multi-branch inventory, delivery tracking, and driver-app functionality.
+**Assessed role-based access** across 5 user roles to ensure appropriate permissions and workflow access.
+Identified critical integration issues and contributed to a** 40% improvement in regression testing effectiveness**, supporting faster and more reliable releases.
+
+**Tools & Testing**: Postman · Swagger · API Testing · Functional Testing · Regression Testing · Integration Testing · Payment Testing · UAT
 
 **[AromaFlowers](https://aromaflowers.ae/) — E-commerce Web & Mobile**
 ([Android](https://play.google.com/store/apps/details?id=com.aroma.flowers) · [iOS](https://apps.apple.com/us/app/aroma-flowers-uae/id6443508105))
 
 <div align="center"> <img src="https://github.com/rimshaa-888/rimshaa-888/blob/main/aromaflowers.png?raw=true" width="850" alt="Aroma Flowers" /> </div>
 
-Tested complete checkout and payment workflows (Stripe & PayPal) across web and mobile. Identified critical defects in the transaction flow, contributing to a **30% reduction in post-release defects**.
+Aroma Flowers is an e-commerce platform with customer-facing web and mobile experiences focused on product browsing, checkout, and online payments.
+
+. Covered complete checkout and payment workflows **across web and mobile platforms**.
+. Worked with Stripe and PayPal payment integrations, examining transaction behavior throughout the **purchasing flow**.
+. Investigated critical defects affecting the **transaction process** and supported their verification through subsequent fixes.
+. Performed functional and regression checks around key purchasing scenarios to improve **checkout reliability**.
+. Contributed to a **30% reduction in post-release defects** through early identification of critical transaction-flow issues.
+
+**Tools & Testing:** Functional Testing · Regression Testing · Payment Testing · Cross-Platform Testing · Stripe · PayPal
 
 **Cashlytix — FinTech App (Flutter)**
 ([Android](https://play.google.com/store/apps/details?id=com.cashlytix) · [iOS](https://apps.apple.com/us/app/cashlytix-staff-cash-tracker/id6761251052))
@@ -84,13 +101,39 @@ Tested complete checkout and payment workflows (Stripe & PayPal) across web and 
   <img src="https://github.com/rimshaa-888/rimshaa-888/blob/main/cashlytix.png?raw=true" width="850" alt="Cashlytix" />
 </div>
 
-Tested financial transaction workflows for accuracy and reliability; performed API validation using Swagger to improve backend data integrity; supported UAT.
+Cashlytix is a Flutter-based **FinTech application** focused on staff cash tracking and financial transaction workflows, where accuracy and reliable data handling are essential.
+
+. Examined financial transaction workflows with a focus on accuracy, reliability, and data consistency.
+. Performed **API checks** using Swagger to review backend requests, responses, and transaction-related data.
+. Investigated API behavior and data responses to help identify potential backend integrity issues.
+. Supported User Acceptance Testing **(UAT)** by reviewing key workflows against expected business requirements.
+. Carried out functional and regression checks across relevant financial workflows and assisted with defect verification.
+
+Tools & Testing: Swagger · API Testing · Functional Testing · Regression Testing · Data Validation · UAT · Flutter
 
 **[MedAssist](https://emr.medassistusa.com/home/) & 3CS — Healthcare Platforms**
-Validated patient records, appointments, and clinical workflows for accuracy and compliance; tracked defects to support stable releases.
+MedAssist and 3CS are healthcare platforms supporting patient, appointment, and clinical workflows where accuracy and reliable information handling are critical.
+
+. Reviewed patient record workflows to ensure information was handled accurately throughout **key user journeys**.
+. Covered appointment management and scheduling workflows, including relevant functional scenarios.
+. Examined clinical workflows for consistency and expected system behavior.
+. Identified, documented, and tracked defects throughout the testing cycle.
+. Rechecked resolved issues to confirm fixes and reduce the risk of regressions.
+. Supported stable releases through **functional and regression coverage** of critical healthcare workflows.
+
+**Tools & Testing:** Functional Testing · Regression Testing · Workflow Testing · Defect Tracking · Retesting · Healthcare Domain
 
 **Campus Management System — Final Year Project**
-Developed and tested a web application for managing student records, courses, and role-based access.
+The Campus Management System was developed as a Final Year Project to provide a **centralized web application** for managing student information, courses, and access-controlled academic workflows.
+
+. Developed and examined workflows for student record management and academic information.
+. Covered course management functionality and related user workflows.
+. Implemented and **checked role-based access control** to ensure users could access functionality according to their assigned roles.
+. Performed **functional checks** across core application workflows and user interactions.
+. Identified and resolved issues during development and testing.
+. Reviewed role permissions and system behavior across different user types.
+
+**Technology & Testing:** Web Application · Functional Testing · Role-Based Access Testing · Workflow Testing · Validation
 
 ---
 
