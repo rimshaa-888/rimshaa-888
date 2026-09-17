@@ -86,13 +86,13 @@ Identified critical integration issues and contributed to a** 40% improvement in
 
 Aroma Flowers is an e-commerce platform with customer-facing web and mobile experiences focused on product browsing, checkout, and online payments.
 
-. Covered complete checkout and payment workflows **across web and mobile platforms**.
-. Worked with Stripe and PayPal payment integrations, examining transaction behavior throughout the **purchasing flow**.
-. Investigated critical defects affecting the **transaction process** and supported their verification through subsequent fixes.
-. Performed functional and regression checks around key purchasing scenarios to improve **checkout reliability**.
-. Contributed to a **30% reduction in post-release defects** through early identification of critical transaction-flow issues.
+- Covered complete checkout and payment workflows **across web and mobile platforms**.
+-  Worked with Stripe and PayPal payment integrations, examining transaction behavior throughout the **purchasing flow**.
+-   Investigated critical defects affecting the **transaction process** and supported their verification through subsequent fixes.
+-   Performed functional and regression checks around key purchasing scenarios to improve **checkout reliability**.
+-   Contributed to a **30% reduction in post-release defects** through early identification of critical transaction-flow issues.
 
-**Tools & Testing:** Functional Testing · Regression Testing · Payment Testing · Cross-Platform Testing · Stripe · PayPal
+**Tools & Testing:** Functional Testing · Regression Testing · Payment Testing · Cross-Platform Testing · Stripe · PayPal.
 
 **Cashlytix — FinTech App (Flutter)**
 ([Android](https://play.google.com/store/apps/details?id=com.cashlytix) · [iOS](https://apps.apple.com/us/app/cashlytix-staff-cash-tracker/id6761251052))
@@ -103,48 +103,48 @@ Aroma Flowers is an e-commerce platform with customer-facing web and mobile expe
 
 Cashlytix is a Flutter-based **FinTech application** focused on staff cash tracking and financial transaction workflows, where accuracy and reliable data handling are essential.
 
-. Examined financial transaction workflows with a focus on accuracy, reliability, and data consistency.
-. Performed **API checks** using Swagger to review backend requests, responses, and transaction-related data.
-. Investigated API behavior and data responses to help identify potential backend integrity issues.
-. Supported User Acceptance Testing **(UAT)** by reviewing key workflows against expected business requirements.
-. Carried out functional and regression checks across relevant financial workflows and assisted with defect verification.
+- Examined financial transaction workflows with a focus on accuracy, reliability, and data consistency.
+- Performed **API checks** using Swagger to review backend requests, responses, and transaction-related data.
+- Investigated API behavior and data responses to help identify potential backend integrity issues.
+- Supported User Acceptance Testing **(UAT)** by reviewing key workflows against expected business requirements.
+- Carried out functional and regression checks across relevant financial workflows and assisted with defect verification.
 
 Tools & Testing: Swagger · API Testing · Functional Testing · Regression Testing · Data Validation · UAT · Flutter
 
 **[MedAssist](https://emr.medassistusa.com/home/) & 3CS — Healthcare Platforms**
 MedAssist and 3CS are healthcare platforms supporting patient, appointment, and clinical workflows where accuracy and reliable information handling are critical.
 
-. Reviewed patient record workflows to ensure information was handled accurately throughout **key user journeys**.
-. Covered appointment management and scheduling workflows, including relevant functional scenarios.
-. Examined clinical workflows for consistency and expected system behavior.
-. Identified, documented, and tracked defects throughout the testing cycle.
-. Rechecked resolved issues to confirm fixes and reduce the risk of regressions.
-. Supported stable releases through **functional and regression coverage** of critical healthcare workflows.
+- Reviewed patient record workflows to ensure information was handled accurately throughout **key user journeys**.
+- Covered appointment management and scheduling workflows, including relevant functional scenarios.
+- Examined clinical workflows for consistency and expected system behavior.
+- Identified, documented, and tracked defects throughout the testing cycle.
+-  Rechecked resolved issues to confirm fixes and reduce the risk of regressions.
+-  Supported stable releases through **functional and regression coverage** of critical healthcare workflows.
 
 **Tools & Testing:** Functional Testing · Regression Testing · Workflow Testing · Defect Tracking · Retesting · Healthcare Domain
 
 **Campus Management System — Final Year Project**
 The Campus Management System was developed as a Final Year Project to provide a **centralized web application** for managing student information, courses, and access-controlled academic workflows.
 
-. Developed and examined workflows for student record management and academic information.
-. Covered course management functionality and related user workflows.
-. Implemented and **checked role-based access control** to ensure users could access functionality according to their assigned roles.
-. Performed **functional checks** across core application workflows and user interactions.
-. Identified and resolved issues during development and testing.
-. Reviewed role permissions and system behavior across different user types.
-
+- Developed and examined workflows for student record management and academic information.
+- Covered course management functionality and related user workflows.
+- Implemented and **checked role-based access control** to ensure users could access functionality according to their assigned roles.
+- Performed **functional checks** across core application workflows and user interactions
+- Identified and resolved issues during development and testing.
+- Reviewed role permissions and system behavior across different user types.
+  
 **Technology & Testing:** Web Application · Functional Testing · Role-Based Access Testing · Workflow Testing · Validation
 
 ---
 
 ## 📜 Certifications
 
-- Introduction to API Testing with Postman — 10Pearls University (2025)
-- QA Fundamentals — 10Pearls University (2025)
-- Soft Skills Training — OEC & IMPCD (2025)
-- Frontend Development — Great Learning (2023)
-- Digital Marketing Strategy — Great Learning (2023)
-- National Financial Literacy Program — State Bank of Pakistan (2022)
+- Introduction to API Testing with Postman — 10Pearls University **(2025)**
+- QA Fundamentals — 10Pearls University **(2025)**
+- Soft Skills Training — OEC & IMPCD **(2025)**
+- Frontend Development — Great Learning **(2023)**
+- Digital Marketing Strategy — Great Learning **(2023)**
+- National Financial Literacy Program — State Bank of Pakistan **(2022)**
 
 ---
 
